@@ -4,4 +4,4 @@ ran it through Meta's TRIBE v2 — trained on 700 brains, 1,100 hrs of fMRI data
 
 code + notebook + brain maps. test your own content, no GPU needed:
 
-github.com/REPO_URL_HERE
+github.com/Princeu3/tribe-v2-content-ab-test

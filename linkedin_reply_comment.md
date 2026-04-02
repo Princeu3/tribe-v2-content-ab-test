@@ -9,4 +9,4 @@ Top-down: 15.2% (motor planning, attention & focus)
 
 Repo has the code, Colab notebook, and all brain maps. Run your own content through it — no GPU needed.
 
-github.com/REPO_URL_HERE
+github.com/Princeu3/tribe-v2-content-ab-test
