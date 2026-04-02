@@ -1,0 +1,23 @@
+3 years ago, I heard CoComelon used to A/B test their videos in front of 10-15 live babies.
+
+Whichever version held attention the longest — that's the one that shipped to millions of kids worldwide.
+
+Sounds absurd. But it worked. They became the most-watched channel on YouTube. Ever.
+
+Here's what just changed.
+
+Meta open-sourced TRIBE v2 — a model trained on 1,100 hours of brain scans from 700 people. You feed it any video, audio, or text. It predicts exactly how your brain responds. 70,000 data points across the cortex. No scanner. No subjects.
+
+So I did what any reasonable person would do.
+
+I ran this post through it before you ever read it.
+
+The image below is your brain's predicted response while processing these words. Left hemisphere lighting up for language. Front cortex for decision-making. Top-down for attention and focus.
+
+The next generation of content won't be A/B tested on audiences. It'll be tested on a digital twin of the human brain — before a single person ever sees it.
+
+The babies can rest.
+
+---
+
+Model: Meta TRIBE v2 (CC BY-NC) | Paper + code: github.com/facebookresearch/tribev2
